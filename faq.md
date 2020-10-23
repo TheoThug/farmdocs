@@ -4,19 +4,19 @@ description: Shout out to the price bot s1mer for putting these together.
 
 # FAQ
 
-## What is SYRUP?
+## What is HOES?
 
-When you stake your $CAKE, you auto-magically receive $SYRUP that will be used as proof-of-stake.
+When you stake your $CAKE, you auto-magically receive $HOES that will be used as proof-of-stake.
 
-With the $SYRUP received you are able to stake for rewards in the SYRUP Pool.Can I become who I want to be?
+With the $HOES received you are able to stake for rewards in the HOES Pool.Can I become who I want to be?
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
-## What happens if I sell my SYRUP?
+## What happens if I sell my HOES?
 
-Please do not sell/exchange your $SYRUP.
+Please do not sell/exchange your $HOES.
 
-If you sell your $SYRUP you won't be able to unstake your $CAKE as you need the same amount of $SYRUP to do so.
+If you sell your $HOES you won't be able to unstake your $CAKE as you need the same amount of $HOES to do so.
 
 ## How can I stake CAKE?
 
@@ -56,7 +56,7 @@ MetaMask: Create a custom RPC with the following: Network Name: BSC Mainnet New 
 
 Check the TX on [https://bscscan.com/](https://bscscan.com/)
 
-If it says "burn amount exceeds balance" you forgot to unstake your $SYRUP. \(This if the transaction fails while trying to unstake $CAKE\)
+If it says "burn amount exceeds balance" you forgot to unstake your $HOES. \(This if the transaction fails while trying to unstake $CAKE\)
 
 If there is any other message it might be a problem within BSC, please try increasing the transfer fees to 20 GWEI 200,000 Gas limit.
 
@@ -80,13 +80,13 @@ You're most likely not connected to Binance Smart Chain within your wallet.
 
 ## How do I vote?
 
-You can vote on the voting page using $SYRUP.
+You can vote on the voting page using $HOES.
 
 Voting page: [https://voting.pancakeswap.finance/\#/cake](https://voting.pancakeswap.finance/#/cake)
 
-## Do I lose SYRUP if I vote?
+## Do I lose HOES if I vote?
 
-You do not lose $SYRUP when you vote.
+You do not lose $HOES when you vote.
 
 ## What is the max supply of CAKE?
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Pancake Swap Intro](README.md)
+* [Traphouse Intro](README.md)
 * [FAQ](faq.md)
 
 ## Core Products
@@ -8,7 +8,7 @@
 * [Exchange](core-products/pancakeswap-exchange.md)
 * [Pools](core-products/pancakeswap-pools.md)
 * [Farms](core-products/farms.md)
-* [SYRUP Pool](core-products/syrup-pool.md)
+* [HOES Pool](core-products/HOES-pool.md)
 * [Analytics](core-products/pancakeswap-analytics.md)
 * [Voting](core-products/voting.md)
 * [Lottery](core-products/lottery.md)
@@ -16,7 +16,7 @@
 ## Tokenomics
 
 * [CAKE](tokenomics/untitled.md)
-* [SYRUP](tokenomics/syrup.md)
+* [HOES](tokenomics/HOES.md)
 
 ## Guides
 
