@@ -8,7 +8,7 @@
 * [Exchange](core-products/pancakeswap-exchange.md)
 * [Pools](core-products/pancakeswap-pools.md)
 * [Farms](core-products/farms.md)
-* [HOES Pool](core-products/HOES-pool.md)
+* [HOES Pool](core-products/hoes-pool.md)
 * [Analytics](core-products/pancakeswap-analytics.md)
 * [Voting](core-products/voting.md)
 * [Lottery](core-products/lottery.md)
@@ -16,7 +16,7 @@
 ## Tokenomics
 
 * [CAKE](tokenomics/untitled.md)
-* [HOES](tokenomics/HOES.md)
+* [HOES](tokenomics/hoes.md)
 
 ## Guides
 

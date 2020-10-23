@@ -24,8 +24,6 @@ You can stake your cake on the "Staking" page by clicking on the little "+" sign
 
 Staking page: [https://pancakeswap.finance/staking](https://pancakeswap.finance/staking)
 
-
-
 ## What is the difference between staking and farming?
 
 STAKING: In order to stake your $CAKE you don't need anything else than... well... $CAKE.
@@ -109,6 +107,4 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 ## Can I become who I want to be?
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-
 
